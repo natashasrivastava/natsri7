@@ -1,6 +1,6 @@
 - 👋 Hola!
 - I'm Natasha Srivastava
-- I’m interested in Machine Learning
+- I’m interested in Machine Learning and Web Development.
 - I’m currently learning DSA.
 - How to reach me 
   https://www.linkedin.com/in/natasha-srivastava-611370a7/ 
